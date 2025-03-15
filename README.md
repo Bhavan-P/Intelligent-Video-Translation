@@ -32,7 +32,7 @@ The **Intelligent Video Translation** project translates audio from videos in on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aravind-Techie/Intelligent-Video-Translation.git
+  https://github.com/Bhavan-P/Intelligent-Video-Translation.git
    cd Intelligent-Video-Translation
 
 2. Install the required dependencies:
